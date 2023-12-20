@@ -1,0 +1,307 @@
+{
+    "settings": {
+        "icons" : true
+    },
+    "firstname": "Ashkbiz",
+    "familyname": "Danehkar",
+    "linkedin_id": "danehkar",
+    "github_id": "danehkar",
+    "bio_data": {
+        "email": "danehkar @ eurekasci.com",
+        "phone": "+1 (617) 955-0606",
+        "website": "http://danehkar.github.io",
+        "stars": ["Astronomer","Astrophysicist"],
+	"summary": {
+		"points":[
+		"Conduct research on astrophysics of planetary nebulae, active galactic nuclei, and starburst feedback."
+		]
+	},
+        "github_projects": {
+            "details": [
+                {
+                    "project_name": "atomneb/AtomNeb-py",
+                    "tagline": "hosted at [atomneb.github.io/AtomNeb-py](https://atomneb.github.io/AtomNeb-py/)",
+                    "description": [
+                        "AtomNeb is a Python Package for Atomic Data of Ionized Nebulae"
+                    ]
+                },
+                {
+                    "project_name": "atomneb/AtomNeb-idl",
+                    "tagline": "hosted at [atomneb.github.io/AtomNeb-idl](https://atomneb.github.io/AtomNeb-idl/)",
+                    "description": [
+                        "AtomNeb is an IDL/GDL Library for Atomic Data of Ionized Nebulae"
+                    ]
+                },
+                {
+                    "project_name": "equib/pyEQUIB",
+                    "tagline": "hosted at [equib.github.io/pyEQUIB](https://equib.github.io/pyEQUIB/)",
+                    "description": [
+                        "pyEQUIB is a Python Package for Plasma Diagnostics and Abundance Analysis"
+                    ]
+                },
+                {
+                    "project_name": "equib/proEQUIB",
+                    "tagline": "hosted at [equib.github.io/proEQUIB](https://equib.github.io/proEQUIB/)",
+                    "description": [
+                        "proEQUIB is an IDL/GDL Library for Plasma Diagnostics and Abundance Analysis"
+                    ]
+                },
+                {
+                    "project_name": "xstarkit/MPI_XSTAR",
+                    "tagline": "hosted at [xstarkit.github.io/MPI_XSTAR](https://xstarkit.github.io/MPI_XSTAR/)",
+                    "description": [
+                        "MPI_XSTAR is an MPI-based Parallelization interface for XSTAR Photoionization Program",
+                        "Written in C++"
+                    ]
+                }
+            ]
+        },
+        "skills": {
+            "details": [
+                {
+                    "type": "Programming Languages",
+                    "items": [
+                        "C++",
+                        "Python",
+                        "Fortran",
+                        "IDL"
+                    ]
+                },
+                {
+                    "type": "Data Analysis",
+                    "items": [
+                        "AstroPy",
+                        "NumPy",
+                        "Matplotlib",
+                        "SciPy",
+                        "pandas"
+                    ]
+                },
+                {
+                    "type": "Data Reduction",
+                    "items": [
+                        "IRAF",
+                        "HEASoft",
+                        "XMMSAS",
+                        "DrizzlePac",
+                        "CIAO"
+                    ]
+                }
+            ]
+        },
+        "education": {
+	    "show_gpa": false,
+            "schools": [
+                {
+                    "degree": "Doctor of Philosophy",
+                    "major": "Physics and Astronomy",
+                    "institution": "Macquarie University, Sydney, NSW, Australia",
+                    "graduation_year": 2014,
+                    "gpa": ""
+                },
+                {
+                    "degree": "Master of Science (Dist.)",
+                    "major": "Plasma Physics",
+                    "institution": "Queen’s University Belfast, Belfast, NI, UK",
+                    "graduation_year": 2009,
+                    "gpa": ""
+                },
+                {
+                    "degree": "Master of Science (Merit)",
+                    "major": "Computational and Electrical Engineering",
+                    "institution": "University of Rostock, Rostock, MV, Germany",
+                    "graduation_year": 2007,
+                    "gpa": ""
+                }
+            ]
+        },
+        "acad_achievements": {
+            "items": [
+                "Macquarie University Research Excellence Scholarship (2010–2014)",
+                "Sigma Xi Grant-in-Aid of Research (GIAR) (2013)",
+                "Department for Employment and Learning Studentship (2008–2009)",
+                "Marie Curie Early-Stage Researcher Scholarship (2008)"
+            ]
+        },
+        "experience": {
+            "items": [
+                {
+                    "title": "Research Scientist",
+                    "organisation": "Eureka Scientific Inc",
+		    "location": "Oakland, CA, USA",
+                    "from": "2022",
+                    "to": "present",
+                    "details": [
+                        "Studied X-ray data of supermassive black hole spins using MCMC statistical analysis."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "HEASoft",
+                            "Python",
+                            "AstroPy",
+                            "Matplotlib",
+                            "ISIS",
+                            "CIAO",
+                            "Sherpa",
+                            "XMMSAS"
+                        ]
+                    }
+                },
+                {
+                    "title": "Research Fellow",
+                    "organisation": "University of Michigan",
+		    "location": "Ann Arbor, MI, USA",
+                    "from": "2019",
+                    "to": "2021",
+                    "details": [
+                        "Conducted hydrodynamic simulations of superwinds using the FLASH hydrodynamics code."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "Fortran",
+                            "C++",
+                            "Python",
+                            "AstroPy",
+                            "Matplotlib",
+                            "NumPy",
+                            "SciPy",
+                            "yt",
+                            "pandas"
+                        ]
+                    }
+                },
+                {
+                    "title": "Postdoctoral Fellow",
+                    "organisation": "Harvard-Smithsonian Center for Astrophysics",
+		    "location": "Cambridge, MA, USA",
+                    "from": "2015",
+                    "to": "2018",
+                    "details": [
+                        "Conduct MCMC-based Bayesian analysis of X-ray data of AGN and symbiotics and imaging analysis of nebulae."
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "C++",
+                            "ISIS",
+                            "HEASoft",
+                            "Python",
+                            "IDL",
+                            "CIAO",
+                            "Sherpa",
+                            "IRAF",
+                            "DrizzlePac"
+                        ]
+                    }
+                }
+            ]
+        },
+        "grad_courses": [
+            {
+                "name": "Plasma Physics",
+                "url": ""
+            },
+            {
+                "name": "Astrophysics",
+                "url": ""
+            },
+            {
+                "name": "Applied Mathematics",
+                "url": ""
+            },
+            {
+                "name": "Theoretical Physics",
+                "url": ""
+            },
+            {
+                "name": "Parallel Computing",
+                "url": ""
+            },
+            {
+                "name": "Computational Physics",
+                "url": ""
+            },
+            {
+                "name": "Data Science",
+                "url": ""
+            },
+            {
+                "name": "Embedded Systems",
+                "url": ""
+            }
+         ],
+        "undergrad_courses": [
+            {
+                "name": "Numerical Analysis",
+                "url": ""
+            },
+            {
+                "name": "Integrated Circuits",
+                "url": ""
+            },
+            {
+                "name": "Microcontrollers",
+                "url": ""
+            },
+            {
+                "name": "Digital Systems",
+                "url": ""
+            }
+	],
+        "research_experience": {
+            "items": [
+                {
+                    "title":"Visiting Early Stage Researcher",
+                    "organisation": "University of Craiova, Romania",
+                    "from": "Feb. 2008",
+                    "to": "Oct. 2008",
+                    "points": [
+                        "Performed research on gauge theories, and general relativity. skills Developed: theoretical physics, mathematical physics",
+                        "Supported by the Marie Curie Research Training Network (ForcesUniverse MRTN-CT-2004-005104)."
+                    ]
+                }
+            ]
+        },
+	"papers": {
+	   "items": [
+	   		{
+			"authors":"Google Scholar:",
+			"title":"a2LX8coAAAAJ",
+			"misc":"Indexed by Google Search Engine",
+			"url": "https://scholar.google.com/citations?user=a2LX8coAAAAJ"
+			},
+	   		{
+			"authors":"ORCID:",
+			"title":"0000-0003-4552-5997",
+			"misc":"Open Researcher and Contributor ID",
+			"url": "https://orcid.org/0000-0003-4552-5997"
+			},
+	   		{
+			"authors":"Scopus Author ID:",
+			"title":"34972723700",
+			"misc":"Elsevier's Scopus",
+			"url": "http://www.scopus.com/authid/detail.uri?authorId=34972723700"
+			},
+	   		{
+			"authors":"ResearcherID:",
+			"title":"C-2053-2009",
+			"misc":"Web of Science of Clarivate Analytics",
+			"url": "https://www.webofscience.com/wos/author/rid/C-2053-2009"
+			}
+		   ]
+	},
+	"memberships": {
+	   "committees": [
+			"Member of the International Astronomical Union (IAU), 2018-present",
+			"Member of the American Physical Society (APS), 2017-present",
+			"Full Member of the American Astronomical Society (AAS), 2015-present"
+		   ]
+	},
+        "extra_curricular": {
+            "items": [
+                "Symmetry Outstanding Reviewer Award (MDPI; 2018)",
+                "Astronomical Society of Australia (ASA) Travel Award (2014)",
+                "Max Planck Institute for Extraterrestrial Physics Travel Award (2011)"
+            ]
+        }
+    }
+}
