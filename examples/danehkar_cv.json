@@ -132,7 +132,7 @@
                     "from": "2022",
                     "to": "present",
                     "details": [
-                        "Studied X-ray data of supermassive black hole spins using MCMC statistical analysis."
+                        "Studied X-ray data of supermassive black hole spins using MCMC analysis"
                     ],
                     "technology_used": {
                         "tools": [
@@ -154,7 +154,7 @@
                     "from": "2019",
                     "to": "2021",
                     "details": [
-                        "Conducted hydrodynamic simulations of superwinds using the FLASH hydrodynamics code."
+                        "Conducted hydrodynamic simulations of superwinds using the FLASH hydrodynamics code"
                     ],
                     "technology_used": {
                         "tools": [
@@ -172,12 +172,13 @@
                 },
                 {
                     "title": "Postdoctoral Fellow",
-                    "organisation": "Harvard-Smithsonian Center for Astrophysics",
+                    "organisation": "Harvard-Smithsonian CfA",
 		    "location": "Cambridge, MA, USA",
                     "from": "2015",
                     "to": "2018",
                     "details": [
-                        "Conduct MCMC-based Bayesian analysis of X-ray data of AGN and symbiotics and imaging analysis of nebulae."
+                        "Conduct X-ray data analysis of AGN and symbiotics",
+                        "Hubble space telescope imaging analysis of nebulae"
                     ],
                     "technology_used": {
                         "tools": [
@@ -255,8 +256,9 @@
                     "from": "Feb. 2008",
                     "to": "Oct. 2008",
                     "points": [
-                        "Performed research on gauge theories, and general relativity. skills Developed: theoretical physics, mathematical physics",
-                        "Supported by the Marie Curie Research Training Network (ForcesUniverse MRTN-CT-2004-005104)."
+                        "Performed research on gauge theories, and general relativity", 
+                        "Skills Developed: theoretical physics, mathematical physics",
+                        "Supported by the Marie Curie Research Training Network (MRTN-CT-2004-005104)."
                     ]
                 }
             ]
