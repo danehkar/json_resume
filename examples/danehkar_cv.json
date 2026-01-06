@@ -8,7 +8,7 @@
     "github_id": "danehkar",
     "bio_data": {
         "email": "danehkar @ eurekasci.com",
-        "phone": "+1 (617) 955-0606",
+        "phone": "",
         "website": "http://danehkar.github.io",
         "stars": ["Astronomer","Astrophysicist"],
 	"summary": {
@@ -107,7 +107,7 @@
                     "gpa": ""
                 },
                 {
-                    "degree": "Master of Science (Merit)",
+                    "degree": "Master of Science (Good)",
                     "major": "Computational Electrical Engineering",
                     "institution": "University of Rostock, Rostock, MV, Germany",
                     "graduation_year": 2007,
@@ -126,11 +126,31 @@
         "experience": {
             "items": [
                 {
+                    "title": "Space Scientist (Astronomy)",
+                    "organisation": "USRA/STI",
+		    "location": "Huntsville, AL, USA",
+                    "from": "2025",
+                    "to": "present",
+                    "details": [
+                        "Support NASA's Interagency Implementation and Advanced Concepts Team (IMPACT)"
+                    ],
+                    "technology_used": {
+                        "tools": [
+                            "OpenAI",
+                            "Python",
+                            "AstroQuery",
+                            "AstroPy",
+                            "HEASoft",
+                            "CIAO"
+                        ]
+                    }
+                },
+                {
                     "title": "Research Scientist",
                     "organisation": "Eureka Scientific Inc",
 		    "location": "Oakland, CA, USA",
                     "from": "2022",
-                    "to": "present",
+                    "to": "2025",
                     "details": [
                         "Studied X-ray data of supermassive black hole spins using MCMC analysis"
                     ],
